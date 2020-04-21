@@ -5,12 +5,17 @@
 ### production app
 [socket-io-production-app](https://node-js-soket-io-project-1.herokuapp.com)
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
+![Slide 2](slide-img/img1.png)
+![Slide 4](slide-img/img.png)
+
+
 
 
 ----
 
-### use this app 
+## Use this app 
 
 ```
 npm install
