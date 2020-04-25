@@ -1,4 +1,4 @@
-# Socket.id node.js application
+# Socket.io node.js application
 
 ---
 
