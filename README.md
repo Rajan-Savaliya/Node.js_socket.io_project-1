@@ -3,7 +3,7 @@
 ---
 
 ### production app
-[socket-io-production-app](https://node-js-soket-io-project-1.herokuapp.com)
+[socket-io-production-app](https://node-js-soket-io-project-1.herokuapp.com) visit the app
 
 
 
