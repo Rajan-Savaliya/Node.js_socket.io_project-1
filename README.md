@@ -17,7 +17,7 @@
 
 ## Use this app 
 
-```
+```sh
 npm install
 npm start or npm dev
 ```
