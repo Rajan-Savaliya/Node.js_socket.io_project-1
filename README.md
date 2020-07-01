@@ -15,7 +15,7 @@
 
 ----
 
-## Use this app 
+## Use this app                  
 
 ```sh
 npm install
